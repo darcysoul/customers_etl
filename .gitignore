@@ -1,0 +1,8 @@
+**/.DS_Store
+**/.venv
+**/.env
+**/__pycache__/
+**/.mypy_cache__/
+**/part3/config/airflow.cfg
+**/part3/logs/
+**/.vscode
